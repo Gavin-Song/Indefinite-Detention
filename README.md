@@ -16,7 +16,7 @@ To download the game locally, simply
 Then open up index.html with a web browser. (Note: you will need to setup a web server to serve the file if you want to save your highscore, as some browsers ignore cookies for file:// paths)
 
 ### Online version
-There's already a version of this hosted online at [\[TODO URL HERE\]](URL%20HREF)
+Online version doesn't work due to HTTPS not being supported by peer.js
 
 ### Serve the game yourself
 If you want to host the game yourself, simply serve the game folder. You will need to register for a peerjs API key at [http://peerjs.com/](http://peerjs.com/) Once you get that, modify the following lines in `js/multiplayer.js`
