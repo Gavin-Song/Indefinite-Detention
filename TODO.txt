@@ -1,0 +1,7 @@
+Future TODO
+    Some answer choices will always be displayed
+    Conflict of answers between questions
+    For the first time, some questions have a follow up question, ie:
+        What is your religion -> Why do you stick with your religion anyways
+
+Add sound effects
