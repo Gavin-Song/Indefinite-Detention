@@ -21,6 +21,8 @@ There's already a version of this hosted online at [\[TODO URL HERE\]](URL%20HRE
 ### Serve the game yourself
 If you want to host the game yourself, simply serve the game folder. You will need to register for a peerjs API key at [http://peerjs.com/](http://peerjs.com/) Once you get that, modify the following lines in `js/multiplayer.js`
 
+NOTE: Peer.js currently doesn't support HTTPS, you will need to host your own peer.js server if you want to support HTTPS
+
 ```javascript
 const API_KEY = 'YOUR API KEY HERE' // Peer.js API key
 
